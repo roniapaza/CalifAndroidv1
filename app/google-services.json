@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185456299264",
+    "project_id": "califandroid",
+    "storage_bucket": "califandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185456299264:android:f8dffc82f28924912737e5",
+        "android_client_info": {
+          "package_name": "com.example.califandroidv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185456299264-p3t3gou1r95lvcbcods47s0kogcjdg1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKnDPicw-k-LUGwXV8lL8VNqNUJ0QNBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185456299264-p3t3gou1r95lvcbcods47s0kogcjdg1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
